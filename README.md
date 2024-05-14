@@ -1,4 +1,4 @@
-![logo](<img height="300" src="https://img.industryweek.com/files/base/ebm/industryweek/image/2019/03/industryweek_34488_hacker_blue_light.png?auto=format,compress&fit=crop&q=45&h=528&height=528&w=950&width=950">)
+<img height="300" src="https://img.industryweek.com/files/base/ebm/industryweek/image/2019/03/industryweek_34488_hacker_blue_light.png?auto=format,compress&fit=crop&q=45&h=528&height=528&w=950&width=950">
 <h1 align="center">Hi 👋, I'm Raghul</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
